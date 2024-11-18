@@ -1,0 +1,1 @@
+print(["√-1", "-1", "-i", "1"][(int(input("Enter the power of i: "))%4)-1])
